@@ -1,0 +1,605 @@
+course_id,name
+clinical-trials,Design and Interpretation of Clinical Trials
+social-psychology,Social Psychology
+html-css-javascript-for-web-developers,"HTML, CSS, and Javascript for Web Developers"
+finance-for-non-finance,Finance for Non-Finance Professionals
+build-a-computer,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
+site-reliability-engineering-slos,Site Reliability Engineering: Measuring and Managing Reliability
+sustainable-finance,Principles of Sustainable Finance
+advanced-valuation-and-strategy,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital"
+cs-fundamentals-1,Object-Oriented Data Structures in C++
+datasciencemathskills,Data Science Math Skills
+private-equity,Private Equity and Venture Capital
+global-diplomacy,Global Diplomacy – Diplomacy in the Modern World
+content-marketing,The Strategy of Content Marketing
+physiology,Introductory Human Physiology
+system-administration-it-infrastructure-services,System Administration and IT Infrastructure Services
+deep-neural-network,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+pap,Primeros Auxilios Psicológicos (PAP)
+convolutional-neural-networks-tensorflow,Convolutional Neural Networks in TensorFlow
+philosophy,Introduction to Philosophy
+everyday-excel-part-1,"Everyday Excel, Part 1"
+wine,Wine Tasting: Sensory Techniques for Wine Analysis
+agile-atlassian-jira,Agile with Atlassian Jira
+learning-how-to-learn,Learning How to Learn: Powerful mental tools to help you master tough subjects
+analytics-business-metrics,Business Metrics for Data-Driven Companies
+machine-learning-projects,Structuring Machine Learning Projects
+cancer,Introduction to the Biology of Cancer
+uva-darden-market-analytics,Marketing Analytics
+html,Introduction to HTML5
+childnutrition,Child Nutrition and Cooking
+wharton-accounting,Introduction to Financial Accounting
+financial-engineering-1,Financial Engineering and Risk Management Part I
+remote-team-management,How to Manage a Remote Team
+negotiation,Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator
+forensic-accounting,Forensic Accounting and Fraud Examination
+gcp-fundamentals,Google Cloud Platform Fundamentals: Core Infrastructure
+python-data-analysis,Introduction to Data Science in Python
+neuromarketing,An Introduction to Consumer Neuroscience & Neuromarketing
+introduction-to-calculus,Introduction to Calculus
+womens-health-human-rights,International Women's Health and Human Rights
+user-experience-design,Introduction to User Experience Design
+crypto,Cryptography I
+ibm-customer-engagement-specialist,IBM Customer Engagement Specialist Professional Certificate
+etudier-en-france,Étudier en France: French Intermediate course B1-B2
+excel-intermediate-1,Excel Skills for Business: Intermediate I
+neurobiology,Understanding the Brain: The Neurobiology of Everyday Life
+visual-elements-user-interface-design,Visual Elements of User Interface Design
+sql-data-science,Databases and SQL for Data Science
+entreprise-changement-climatique,Entreprise et changement climatique
+introduction-psychology,Introduction to Psychology
+mafash,Management of Fashion and Luxury Companies
+computer-networking,The Bits and Bytes of Computer Networking
+professional-emails-english,Write Professional Emails in English
+research-methods,Understanding Research Methods
+science-exercise,Science of Exercise
+wharton-marketing,Introduction to Marketing
+systematic-review,Introduction to Systematic Review and Meta-Analysis
+python,Programming for Everybody (Getting Started with Python)
+medical-neuroscience,Medical Neuroscience
+marketing-digital,Marketing in a Digital World
+probabilistic-models-in-nlp,Natural Language Processing with Probabilistic Models
+wharton-quantitative-modeling,Fundamentals of Quantitative Modeling
+fundamentals-of-graphic-design,Fundamentals of Graphic Design
+gamification,Gamification
+sciwrite,Writing in the Sciences
+introduction-tensorflow,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+psychological-first-aid,Psychological First Aid
+wind-energy,Wind Energy
+convolutional-neural-networks,Convolutional Neural Networks
+classification-vector-spaces-in-nlp,Natural Language Processing with Classification and Vector Spaces
+positive-psychiatry,Positive Psychiatry and Mental Health
+sustainability,Introduction to Sustainability
+gcp-big-data-ml-fundamentals,Google Cloud Platform Big Data and Machine Learning Fundamentals
+positive-psychology-visionary-science,Positive Psychology: Martin E. P. Seligman’s Visionary Science
+data-science-methodology,Data Science Methodology
+google-cbrs-cpi-training,Become a CBRS Certified Professional Installer by Google
+wharton-contagious-viral-marketing,Viral Marketing and How to Craft Contagious Content
+open-source-tools-for-data-science,Tools for Data Science
+social-media-marketing-introduction,Introduction to Social Media Marketing
+autism-spectrum-disorder,Autism Spectrum Disorder
+introduction-psych,Introduction to Psychology
+animal-welfare,Animal Behaviour and Welfare
+food-and-health,Stanford Introduction to Food and Health
+natural-language-processing-tensorflow,Natural Language Processing in TensorFlow
+neural-networks-deep-learning,Neural Networks and Deep Learning
+excel-essentials,Excel Skills for Business: Essentials
+wharton-customer-analytics,Customer Analytics
+uva-darden-digital-product-management,Digital Product Management: Modern Fundamentals
+project-planning,Initiating and Planning Projects
+introduction-cybersecurity-cyber-attacks,Introduction to Cybersecurity Tools & Cyber Attacks
+python-for-applied-data-science-ai,Python for Data Science and AI
+moral-politics,Moral Foundations of Politics
+company-future-management,Managing the Company of the Future
+python-data,Python Data Structures
+american-law,An Introduction to American Law
+it-security,IT Security: Defense against the digital dark arts
+python-crash-course,Crash Course on Python
+brand,"Brand Management: Aligning Business, Brand and Behaviour"
+python-network-data,Using Python to Access Web Data
+financial-markets-global,Financial Markets
+negotiation-skills,Successful Negotiation: Essential Strategies and Skills
+camino-excelencia-gestion-proyectos,Camino a la Excelencia en Gestión de Proyectos
+os-power-user,Operating Systems and You: Becoming a Power User
+communication-strategies-virtual-age,Communication Strategies for a Virtual Age
+project-management,Project Launch
+python-basics,Python Basics
+duke-programming-web,"Programming Foundations with JavaScript, HTML and CSS"
+uva-darden-project-management,Fundamentals of Project Planning and Management
+computational-thinking-problem-solving,Computational Thinking for Problem Solving
+python-operating-system,Using Python to Interact with the Operating System
+ai-for-everyone,AI For Everyone
+careerdevelopment,English for Career Development
+contabilidad,Contabilidad para no contadores
+teach-online,Learning to Teach Online
+sql-for-data-science,SQL for Data Science
+data-scientists-tools,The Data Scientist’s Toolbox
+diversity-inclusion-workplace,Diversity and inclusion in the workplace
+learn-korean,First Step Korean
+vital-signs,Vital Signs: Understanding What the Body Is Telling Us
+what-is-datascience,What is Data Science?
+linear-algebra-machine-learning,Mathematics for Machine Learning: Linear Algebra
+clinical-terminology,Clinical Terminology for International and U.S. Students
+introduction-to-cloud,Introduction to Cloud Computing
+pca-machine-learning,Mathematics for Machine Learning: PCA
+journalism,English for Journalism
+droits-de-lhomme,Introduction aux Droits de l’Homme
+electricity,Electric Industry Operations and Markets
+self-determination-theory,"Introduction to Self-Determination Theory: An approach to motivation, development and wellness"
+ibm-penetration-testing-incident-response-forensics,"Penetration Testing, Incident Response and Forensics"
+competencias-lab,"Competencias Laborales: Perfiles, Evaluación y Capacitación."
+cloud-azure-intro,Getting Started with Azure
+craft-of-plot,Creative Writing: The Craft of Plot
+global-environmental-management,Global Environmental Management
+write-a-feature-length-screenplay-for-film-or-television,Write A Feature Length Screenplay For Film Or Television
+algorithmic-toolbox,Algorithmic Toolbox
+legaltech,El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho
+excel-advanced,Excel Skills for Business: Advanced
+nanotechnology,Nanotechnology: A Maker’s Course
+challenging-forensic-science,Challenging Forensic Science: How Science Should Speak to Court
+norms,"Social Norms, Social Change I"
+probability-statistics,Probability and Statistics: To p or not to p?
+applied-data-science-capstone,Applied Data Science Capstone
+motivate-people-teams,Inspiring and Motivating Individuals
+einstein-relativity,Understanding Einstein: The Special Theory of Relativity
+customer-segmentation-prospecting,Customer Segmentation and Prospecting
+blockchain-basics,Blockchain Basics
+systems-engineering,Introduction to Systems Engineering
+community-organizing,Community Organizing for Social Justice
+introcss,Introduction to CSS3
+tensorflow-sequences-time-series-and-prediction,"Sequences, Time Series and Prediction"
+producing-music,The Art of Music Production
+negociacion,Negociación exitosa: Estrategias y habilidades esenciales (en español)
+reporting-extra-financier-strategie-rse,Reporting extra-financier et stratégie RSE
+mythology,Greek and Roman Mythology
+english-composition,English Composition I
+gender-sexuality,Gender and Sexuality: Diversity and Inclusion in the Workplace
+django-database-web-apps,Web Application Technologies and Django
+memoir-reader-relationship,Memoir and Personal Essay: Managing Your Relationship with the Reader
+ml-foundations,Machine Learning Foundations: A Case Study Approach
+initiating-planning,Engineering Project Management: Initiating and Planning
+matlab,Introduction to Programming with MATLAB
+aprendiendo-programar-python,Introducción a la programación en Python I: Aprendiendo a programar con Python
+english-principles,Teach English Now! Foundational Principles
+programming-languages,"Programming Languages, Part A"
+wharton-cryptocurrency-blockchain-introduction-digital-currency,Cryptocurrency and Blockchain: An Introduction to Digital Currencies
+bayesian-statistics,Bayesian Statistics: From Concept to Data Analysis
+plato,Ancient Philosophy: Plato & His Predecessors
+forensic-science,Introduction to Forensic Science
+reussir-le-changement,Réussir le Changement
+terrorism,Terrorism and Counterterrorism: Comparing Theory and Practice
+mcmc-bayesian-statistics,Bayesian Statistics: Techniques and Models
+creative-problem-solving,Creative Problem Solving
+epidemiology-tools,Essential Epidemiologic Tools for Public Health Practice
+supply-chain-logistics,Supply Chain Logistics
+medical-research,Understanding Medical Research: Your Facebook Friend is Wrong
+wharton-success,Success
+object-oriented-design,Object-Oriented Design
+search-engine-optimization,Introduction to Search Engine Optimization
+intro-common-law,Introduction to English Common Law
+bugs-101,Bugs 101: Insect-Human Interactions
+introduction-embedded-systems,Introduction to Embedded Systems Software and Development Environments
+introduction-to-computers-and-office-productivity-software,Introduction to Computers and Office Productivity Software
+japanese-1,Japanese for beginners 1
+autodesk-revit-architectural-design,Autodesk Certified Professional: Revit for Architectural Design Exam Prep
+python-programming-introduction,Python Programming: A Concise Introduction
+enfant-developpement,Développement psychologique de l'enfant
+wharton-fintech-overview-payments-regulations,"FinTech: Foundations, Payments, and Regulations"
+gte-sustainable-cities,Greening the Economy: Sustainable Cities
+magic-middle-ages,Magic in the Middle Ages
+modern-art-ideas,Modern Art & Ideas
+finanzas-empresariales,Fundamentos de Finanzas Empresariales
+grammar-punctuation,Grammar and Punctuation
+fintechlawandpolicy,FinTech Law and Policy
+introduction-to-data-analytics,Introduction to Data Analytics
+international-organizations-management,International Organizations Management
+clinicalsimulations,Essentials in Clinical Simulations Across the Health Professions
+health-behavior-change,Health Behavior Change: From Evidence to Action
+golang-webservices-1,Разработка веб-сервисов на Go - основы языка
+statistical-inferences,Improving your statistical inferences
+uva-darden-bcg-pricing-strategy-cost-economics,Cost and Economics in Pricing Strategy
+food-beverage-management,Food & Beverage Management
+gcp-infrastructure-foundation,Essential Google Cloud Infrastructure: Foundation
+leadership-21st-century,Leadership in 21st Century Organizations
+spanish-vocabulary-meeting-people,Spanish Vocabulary: Meeting People
+entrepreneurship-strategy,Entrepreneurship Strategy: From Ideation to Exit
+sample-based-learning-methods,Sample-based Learning Methods
+innovation-through-design,"Innovation Through Design: Think, Make, Break, Repeat"
+social-economic-networks,Social and Economic Networks:  Models and Analysis
+erasmus-econometrics,Econometrics: Methods and Applications
+foundations-big-data-analysis-sql,Foundations for Big Data Analysis with SQL
+introclassicalmusic,Introduction to Classical Music
+international-relations-theory,Understanding International Relations Theory
+stochasticprocesses,Stochastic processes
+quantum-computing-algorithms,The Introduction to Quantum Computing
+principles-of-microeconomics,The Power of Microeconomics: Economic Principles in the Real World
+intro-chemistry,Introduction to Chemistry:  Reactions and Ratios
+industrial-biotech,Industrial Biotechnology
+quantitative-methods,Quantitative Methods
+music-theory,Getting Started With Music Theory
+data-science-k-means-clustering-python,Foundations of Data Science: K-Means Clustering in Python
+perfect-tenses-modals,Perfect Tenses and Modals
+spanish-in-healthcare-settings,Spanish for Successful Communication in Healthcare Settings
+social-work-practice-advocating-social-justice-and-change,Social Work Practice: Advocating Social Justice and Change
+building-modern-python-applications-on-aws,Building Modern Python Applications on AWS
+dog-emotion-and-cognition,Dog Emotion and Cognition
+python-databases,Using Databases with Python
+java-programming,Java Programming: Solving Problems with Software
+chemicals-health,Chemicals and Health
+introduction-to-software-product-management,Introduction to Software Product Management
+excellence-operationnelle,L'excellence opérationnelle en pratique
+ai-for-medical-prognosis,AI for Medical Prognosis
+astro,Astronomy: Exploring Time and Space
+excel-para-negocios,Fundamentos de Excel para Negocios
+golang-getting-started,Getting Started with Go
+trunk-anatomy,"Anatomy of the Chest, Abdomen, and Pelvis"
+global-financial-markets-instruments,Global Financial Markets and Instruments
+contrats,Rédaction de contrats
+corp-sustainability,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity
+mental-health,The Social Context of Mental Health and Illness
+microbiome,Gut Check: Exploring Your Microbiome
+summary-statistics,Summary Statistics in Public Health
+transmedia-storytelling,"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences"
+intro-programming,Code Yourself! An Introduction to Programming
+everyday-excel-part-2,"Everyday Excel, Part 2"
+enlinea,Cursos en línea: modelo para armar
+analytics-excel,Mastering Data Analysis in Excel
+basic-statistics,Basic Statistics
+photography,Seeing Through Photographs
+uva-darden-design-thinking-social-sector,Design Thinking for the Greater Good: Innovation in the Social Sector
+international-law-in-action,International Law in Action: A Guide to the International Courts and Tribunals in The Hague
+clinical-data-management,Data Management for Clinical Research
+excel-data-analysis,Introduction to Data Analysis Using Excel
+typography,Introduction to Typography
+neuroscience-neuroimaging,Fundamental Neuroscience for Neuroimaging
+intro-business-analytics,Introduction to Business Analytics: Communicating with Data
+anticorrupcion-introduccion,Anticorrupción: Introducción a conceptos y perspectiva práctica
+aprendiendo-a-aprender,Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn)
+financial-planning,Financial Planning for Young Adults
+c-plus-plus-white,Основы разработки на C++: белый пояс
+understanding-financial-markets,Understanding Financial Markets
+managing-as-a-coach,Managing as a Coach
+mathematical-thinking,Introduction to Mathematical Thinking
+music-business-foundations,Music Business Foundations
+epidemiology,Epidemiology: The Basic Science of Public Health
+elearning,e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age
+cs-fundamentals-2,Ordered Data Structures
+machine-learning,Machine Learning
+batch-data-pipelines-gcp,Building Batch Data Pipelines on GCP
+privacy-law-data-protection,Privacy Law and Data Protection
+machine-learning-business-professionals,Machine Learning for Business Professionals
+writing-for-business,Business Writing
+software-processes-and-agile-practices,Software Processes and Agile Practices
+nand2tetris2,Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)
+finanzas-personales,Finanzas personales
+big-history,Big History: Connecting Knowledge
+contact-tracing-for-covid-19,Population Health During A Pandemic: Contact Tracing and Beyond
+programming-fundamentals,Programming Fundamentals
+six-sigma-organization-advanced,Six Sigma and the Organization (Advanced)
+wharton-financial-accounting,More Introduction to Financial Accounting
+uva-darden-managerial-accounting,Managerial Accounting Fundamentals
+enterprise-architecture,Enterprise Architecture
+gestionar-personas,Claves para Gestionar Personas
+introancientegypt,Introduction to Ancient Egypt and Its Civilization
+business-english-intro,Business English: Networking
+family-planning,Personal & Family Financial Planning
+python-osnovy-programmirovaniya,Основы программирования на Python
+antibiotic-stewardship,Antibiotic Stewardship
+mastering-final-cut-pro,Mastering Final Cut Pro
+getting-started-with-google-sheets,Getting Started with Google Sheets
+technology-of-music-production,The Technology of Music Production
+multivariate-calculus-machine-learning,Mathematics for Machine Learning: Multivariate Calculus
+bootstrap-4,Front-End Web UI Frameworks and Tools: Bootstrap 4
+excel-intermediate-2,Excel Skills for Business: Intermediate II
+refugees-21st-century,Refugees in the 21st Century
+fashion-design,Fashion as Design
+love-social-justice,Love as a Force for Social Justice
+human-needs,The Arts and Science of Relationships: Understanding Human Needs
+autodesk-autocad-design-drafting,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep
+introduction-intellectual-property,Introduction to Intellectual Property
+finance-for-non-financial-managers,Finance for Non-Financial Managers
+entrepreneur-changement,Devenir entrepreneur du changement
+leading-for-equity-diversity-inclusion,"Leading for Equity, Diversity and Inclusion in Higher Education"
+devops-culture-and-mindset,DevOps Culture and Mindset
+gcp-exploring-preparing-data-bigquery,Exploring ​and ​Preparing ​your ​Data with BigQuery
+stem-cells,The Science of Stem Cells
+ux-design-fundamentals,UX Design Fundamentals
+ds,Fundamentals of Scalable Data Science
+corporatestrategy,Corporate Strategy
+becoming-a-veterinarian,EDIVET: Do you have what it takes to be a veterinarian?
+introduction-trading-machine-learning-gcp,"Introduction to Trading, Machine Learning & GCP"
+neuroeconomics,Introduction to Neuroeconomics: How the Brain Makes Decisions
+uva-darden-financial-accounting,Financial Accounting Fundamentals
+human-language,Miracles of Human Language: An Introduction to Linguistics
+roman-architecture,Roman Architecture
+teamwork-skills-effective-communication,Teamwork Skills: Communicating Effectively in Groups
+engineering-mechanics-statics,Introduction to Engineering Mechanics
+intro-economic-theories,Introduction to Economic Theories
+verb-passives,Verb Tenses and Passives
+uva-darden-getting-started-agile,Agile Meets Design Thinking
+uva-darden-continous-delivery-devops,Continuous Delivery & DevOps
+business-model,Business Model Innovation
+infrastructure-investing,Financing and Investing in Infrastructure
+machine-learning-duke,Introduction to Machine Learning
+exploring-renewable-energy,Exploring Renewable Energy Schemes
+information-systems-audit,"Information Systems Auditing, Controls and Assurance"
+nlp-sequence-models,Sequence Models
+international-humanitarian-law,International Humanitarian Law in Theory and Practice
+social-innovation,Becoming a changemaker: Introduction to Social Innovation
+ux-ui-design-de-interface,UX / UI: Fundamentos para o design de interface
+google-cloud-java-spring,Building Scalable Java Microservices with Spring Boot and Spring Cloud
+python-functions-files-dictionaries,"Python Functions, Files, and Dictionaries"
+arbitration-international-disputes,International Law in Action: the Arbitration of International Disputes
+law-student,A Law Student's Toolkit
+smart-cities,Smart Cities – Management of Smart Urban Infrastructures
+wharton-launching-startup,Entrepreneurship 2: Launching your Start-Up
+probability-intro,Introduction to Probability and Data with R
+intro-self-driving-cars,Introduction to Self-Driving Cars
+accounting-analytics,Accounting Analytics
+data-analysis-with-python,Data Analysis with Python
+drug-development,Drug Development
+childrens-rights,Children's Human Rights - An Interdisciplinary Introduction
+attention-models-in-nlp,Natural Language Processing with Attention Models
+python-machine-learning,Applied Machine Learning in Python
+fundamental-machine-learning-healthcare,Fundamentals of Machine Learning for Healthcare
+write-your-first-novel,Write Your First Novel
+object-oriented-java,Object Oriented Programming in Java
+sustainable-fashion,Sustainable Fashion
+money-banking,Economics of Money and Banking
+managing-human-resources,Preparing to Manage Human Resources
+change-management,Leading transformations: Manage change
+digital-business-models,Digital Business Models
+big-data-essentials,"Big Data Essentials: HDFS, MapReduce and Spark RDD"
+develop-your-musicianship,Developing Your Musicianship
+modern-world-2,"The Modern World, Part Two: Global History since 1910"
+humanrights,Human Rights for Open Societies
+data-visualization-tableau,Fundamentals of Visualization with Tableau
+finance-fundamentals,Fundamentals of Finance
+actualizacion-manejo-diabetes-tipo-2,Actualización en el manejo del paciente con diabetes mellitus tipo 2
+arts-heritage,Arts and Heritage Management
+cultural-competence-aboriginal-sydney,Cultural Competence - Aboriginal Sydney
+gcp-infrastructure-core-services,Essential Google Cloud Infrastructure: Core Services
+business,English for Business and Entrepreneurship
+corporate-finance-essentials,Corporate Finance Essentials
+oilandgas,Oil & Gas Industry Operations and Markets
+google-machine-learning,How Google does Machine Learning
+people-management,The Manager's Toolkit: A Practical Guide to Managing People at Work
+wharton-introduction-spreadsheets-models,Introduction to Spreadsheets and Models
+schedule-projects,Budgeting and Scheduling Projects
+intro-accounting-data-analytics-visual,Introduction to Accounting Data Analytics and Visualization
+introduction-programming-unity,Introduction to C# Programming and Unity
+schizophrenia,Schizophrenia
+anatomy403-1x,Anatomy: Musculoskeletal and Integumentary Systems
+google-kubernetes-engine,Getting Started with Google Kubernetes Engine
+getting-started-with-tensor-flow2,Getting started with TensorFlow 2
+global-sustainable-development,"The Sustainable Development Goals – A global, transdisciplinary vision for the future"
+innovation-management,Innovation Management
+introtoux-principles-and-processes,Introduction to User Experience Principles and Processes
+aws-machine-learning,Getting Started with AWS Machine Learning
+epigenetics,Epigenetic Control of Gene Expression
+mathematics-and-python,Математика и Python для анализа данных
+weight-management-beyond-balancing-calories,Weight Management: Beyond Balancing Calories
+intercultural,Intercultural Management
+quality-healthcare,Leading Healthcare Quality and Safety
+investment-management,Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers
+seo-fundamentals,Search Engine Optimization Fundamentals
+troubleshooting-debugging-techniques,Troubleshooting and Debugging Techniques
+iiot-google-cloud-platform,Industrial IoT on Google Cloud Platform
+role-of-advertising,Advertising and Society
+learn-to-program,Learn to Program: The Fundamentals
+correccion-estilo-variaciones,"Corrección, estilo y  variaciones de la lengua española"
+machine-learning-with-python,Machine Learning with Python
+bcg-uva-darden-digital-transformation,Digital Transformation
+wharton-people-analytics,People Analytics
+writing-editing-words,Writing and Editing: Word Choice and Word Order
+discrete-optimization,Discrete Optimization
+learn-chinese,Chinese for Beginners
+microeconomics,Microeconomics Principles
+getinmooc,Get Interactive: Practical Teaching with Technology
+countering-terror-violent-extremism,New Approaches to Countering Terror: Countering Violent Extremism
+contracts-1,American Contract Law I
+gcp-infrastructure-scaling-automation,Elastic Google Cloud Infrastructure: Scaling and Automation
+plantknows,Understanding Plants - Part I: What a Plant Knows
+songwriting-lyrics,Songwriting: Writing the Lyrics
+sports-society,Sports and Society
+accounting-data-analytics-python,Accounting Data Analytics with Python
+sdgbusiness,Driving business towards the Sustainable Development Goals
+modern-world,"The Modern World, Part One: Global History from 1760 to 1910"
+finance-healthcare-managers,Financial Acumen for Non-Financial Managers
+python-statistics-financial-analysis,Python and Statistics for Financial Analysis
+python-data-visualization,"Capstone: Retrieving, Processing, and Visualizing Data with Python"
+containerized-apps-on-aws,Building Containerized Applications on AWS
+foundations-of-mindfulness,Foundations of Mindfulness
+public-policy,Public Policy Challenges of the 21st Century
+globalenergyandclimatepolicy,Global Energy and Climate Policy
+democracia,Democracia y decisiones públicas. Introducción al análisis de políticas públicas
+transformation-global-food-system,Transformation of the Global Food System
+international-criminal-law,Introduction to International Criminal Law
+progfun1,Functional Programming Principles in Scala
+everyday-parenting,Everyday Parenting: The ABCs of Child Rearing
+drug-commercialization,Drug Commercialization
+theropods-birds,Paleontology: Theropod Dinosaurs and the Origin of Birds
+sequence-models-in-nlp,Natural Language Processing with Sequence Models
+public-speaking,Introduction to Public Speaking
+covid-19-contact-tracing-for-nursing-professionals,COVID-19 Contact Tracing For Nursing Professionals
+cats-and-dogs,The Truth About Cats and Dogs
+beyond-the-sustainable-development-goals-addressing-sustainability-and-development,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development
+wharton-operations-analytics,Operations Analytics
+front-end-react,Front-End Web Development with React
+computational-neuroscience,Computational Neuroscience
+global-financial-crisis,The Global Financial Crisis
+clinical-research,Understanding Clinical Research: Behind the Statistics
+gestion-organizaciones-efectivas,Gestión de organizaciones efectivas
+fundamentals-of-reinforcement-learning,Fundamentals of Reinforcement Learning
+gis,Fundamentals of GIS
+introduction-blockchain-technologies,Introduction to Blockchain Technologies
+what-is-a-proof,Mathematical Thinking in Computer Science
+genetics-evolution,Introduction to Genetics and Evolution
+ecology-conservation,Ecology: Ecosystem Dynamics and Conservation
+construction-project-management,Construction Project Management
+understanding-visualization-data,Understanding and Visualizing Data with Python
+philosophy-cognitive-sciences,Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences
+vlsi-cad-logic,VLSI CAD Part I: Logic
+speak-english-professionally,"Speak English Professionally: In Person, Online & On the Phone"
+race-cultural-diversity-american-life,Race and Cultural Diversity in American Life and History
+introduction-to-ai,Introduction to Artificial Intelligence (AI)
+child-development,Understanding child development: from synapse to society
+aulaconstructivista,Hacia una práctica constructivista en el aula
+dyslexia-difficulties,Supporting children with difficulties in reading and writing
+business-transformation-google-cloud,Business Transformation with Google Cloud
+the-business-of-product-management-one,The Business of Product Management I
+contemporary-art,What Is Contemporary Art?
+solar-energy-basics,Solar Energy Basics
+access-control-sscp,Access Controls
+excel-aplicado-negocios-avanzado,Excel aplicado a los negocios (Nivel Avanzado)
+positive-psychology,Positive Psychology
+model-thinking,Model Thinking
+fe-exam,Fundamentals of Engineering Exam Review
+conversational-experiences-dialogflow,Building Conversational Experiences with Dialogflow
+upravleniya-proektami-agile-scrum,Agile и Scrum в работе над проектами и продуктами
+positive-psychology-resilience,Positive Psychology: Resilience Skills
+uva-darden-agile-team-management,Managing an Agile Team
+organizational-behavior,International Leadership and Organizational Behavior
+international-migrations,International migrations: a global issue
+data-lakes-data-warehouses-gcp,Modernizing Data Lakes and Data Warehouses with GCP
+painting,In the Studio: Postwar Abstract Painting
+cloud-infrastructure-design-process,Reliable Google Cloud Infrastructure: Design and Process
+learn-speak-korean1,Learn to Speak Korean 1
+dental-medicine-penn,Introduction to Dental Medicine
+nutricion-obesidad-sobrepeso,Nutrición y obesidad: control de sobrepeso
+engineering-health-yoga-physiology,Engineering Health: Introduction to Yoga and Physiology
+global-diplomacy-un,Global Diplomacy: the United Nations in the World
+renewable-energy-entrepreneurship,Renewable Energy and Green Building Entrepreneurship
+design-strategy,Design-Led Strategy: Design thinking for business strategy and entrepreneurship
+version-control-with-git,Version Control with Git
+success,The Science of Success: What Researchers Know that You Should Know
+wharton-operations,Introduction to Operations Management
+geopolitics-europe,Geopolitics of Europe
+personal-branding,Introduction to Personal Branding
+sleep,"Sleep: Neurobiology, Medicine, and Society"
+equine,Equine Welfare and Management
+finding-purpose-and-meaning-in-life,Finding Purpose and Meaning In Life: Living for What Matters Most
+estrategia-marketing-digital,Marketing Digital
+emt-foundations,EMT Foundations
+what-is-social,What is Social?
+exposure-photography,"Cameras, Exposure, and Photography"
+excel-data-analysis-fundamentals,Excel Fundamentals for Data Analysis
+digital-advertising-landscape,Introduction to the Digital Advertising Landscape
+social-impact,Social Impact Strategy: Tools for Entrepreneurs and Innovators
+effective-compliance-programs,Effective Compliance Programs
+truthinourbones-osteoarchaeology-archaeology,Osteoarchaeology: The Truth in Our Bones
+nutrition-pregnancy,Nutrition and Lifestyle in Pregnancy
+aws-fundamentals-going-cloud-native,AWS Fundamentals: Going Cloud-Native
+what-is-compliance,What is Compliance?
+revisao-sistematica,Revisão Sistemática e Meta-análise
+understanding-arguments,Think Again I: How to Understand Arguments
+international-taxation,Rethinking International Tax Law
+cybersecurity-roles-processes-operating-system-security,"Cybersecurity Roles, Processes & Operating System Security"
+web-development,Introduction to Web Development
+aboriginal-education,Aboriginal Worldviews and Education
+european-law-fundamentals,European Business Law: Understanding the Fundamentals
+instructional-design-foundations-applications,Instructional Design Foundations and Applications
+six-sigma-principles,Six Sigma Principles
+introduction-g-suite,Introduction to G Suite
+practical-time-series-analysis,Practical Time Series Analysis
+database-management,Database Management Essentials
+dino101,Dino 101: Dinosaur Paleobiology
+high-stakes-leadership,High Stakes Leadership: Leading in Times of Crisis
+immunologyfundamentalsimmunitybcells,Fundamentals of Immunology: Innate Immunity and B-Cell Function
+introduction-portfolio-construction-python,Introduction to Portfolio Construction and Analysis with Python
+decision-making,Data-driven Decision Making
+bioinformatics,Biology Meets Programming: Bioinformatics for Beginners
+troubles-spectre-autisme-diagnostic,Troubles du spectre de l'autisme : diagnostic
+curanderismo-plants,Curanderismo: Traditional Healing Using Plants
+healing-with-the-arts,Healing with the Arts
+c-for-everyone,C for Everyone: Programming Fundamentals
+intro-sql,Introduction to Structured Query Language (SQL)
+powerpoint-presentations,Effective Business Presentations with Powerpoint
+introduction-genomics,Introduction to Genomic Technologies
+duke-behavioral-finance,Behavioral Finance
+creative-thinking-techniques-and-tools-for-success,Creative Thinking: Techniques and Tools for Success
+kotlin-for-java-developers,Kotlin for Java Developers
+biohacking-your-brains-health,Biohacking Your Brain's Health
+python-plotting,"Applied Plotting, Charting & Data Representation in Python"
+moralities,Moralities of Everyday Life
+dermatology,Dermatology: Trip to skin
+tricky-american-english-pronunciation,Tricky American English Pronunciation
+ai-for-medical-diagnosis,AI for Medical Diagnosis
+introduction-git-github,Introduction to Git and GitHub
+strategic-business-management-microeconomics,Strategic Business Management - Microeconomics
+legal-tech-startups,Legal Tech & Startups
+crash-course-in-causality,A Crash Course in Causality:  Inferring Causal Effects from Observational Data
+intro-to-healthcare,Introduction to Healthcare
+covid-19-what-you-need-to-know,COVID-19: What You Need to Know (CME Eligible)
+oralcavity,The Oral Cavity: Portal to Health and Disease
+strategic-management,Strategic Management
+addiction-and-the-brain,The Addicted Brain
+recruiting-hiring-onboarding-employees,"Recruiting, Hiring, and Onboarding Employees"
+game-development,Introduction to Game Development
+classical-sociological-theory,Classical Sociological Theory
+feminism-social-justice,Feminism and Social Justice
+wharton-finance,Introduction to Corporate Finance
+introduction-to-computer-programming,Introduction to Computer Programming
+systems-thinking,Systems Thinking In Public Health
+r-programming,R Programming
+uva-darden-design-thinking-innovation,Design Thinking for Innovation
+principles-of-macroeconomics,The Power of Macroeconomics: Economic Principles in the Real World
+uol-machine-learning-for-all,Machine Learning for All
+mindshift,Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
+corporate-commercial-law-part1,Corporate & Commercial Law I: Contracts & Employment Law
+sustainable-tourism,Sustainable Tourism – promoting environmental public health
+spectroscopy,Introduction to Molecular Spectroscopy
+uva-darden-foundations-business-strategy,Foundations of Business Strategy
+python-for-data-visualization,Data Visualization with Python
+healthcarejobs,Career 911: Your Future Job in Medicine and Healthcare
+data-management,Research Data Management and Sharing
+wharton-entrepreneurship-opportunity,Entrepreneurship 1: Developing the Opportunity
+preparing-cloud-professional-cloud-architect-exam,Preparing for the Google Cloud Professional Cloud Architect Exam
+teachlanguageonline,Teach English Now! Teaching Language Online
+addiction-treatment,Addiction Treatment: Clinical Skills for Healthcare Providers
+how-things-work,How Things Work: An Introduction to Physics
+fondamentaux-negociation,Les Fondamentaux de la Négociation
+uva-darden-agile-testing,Hypothesis-Driven Development
+indigenous-canada,Indigenous Canada
+manage-health-covid-19,Mind Control: Managing Your Mental Health During COVID-19
+intro-data-science-programacion-estadistica-r,Introducción a Data Science: Programación Estadística con R
+information-security-data,Information Security: Context and Introduction
+making-architecture,Making Architecture
+global-energy,Politics and Economics of International Energy
+process-mining,Process Mining: Data science in Action
+epidemic-pandemic-outbreak,"Epidemics, Pandemics and Outbreaks"
+embedded-software-hardware,Embedded Software and Hardware Architecture
+sas-programming-basics,Getting Started with SAS Programming
+environmental-law,Introduction to Environmental Law and Policy
+cybersecurity-compliance-framework-system-administration,Cybersecurity Compliance Framework & System Administration
+getting-started-with-essay-writing,Getting Started with Essay Writing
+removing-barriers-to-change,Removing Barriers to Change
+project-execution,Project Execution
+google-cloud-product-fundamentals,Google Cloud Product Fundamentals
+electronics,Introduction to Electronics
+supply-chain-principles,Supply Chain Principles
+competencias-digitales-ofimatica,"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)"
+everyday-chinese-medicine,Everyday Chinese Medicine
+sports-marketing,Sports Marketing
+data-analytics-for-lean-six-sigma,Data Analytics for Lean Six Sigma
+marketing-gerencial,Marketing Gerencial
+horse-care,The Horse Course: Introduction to Basic Care and Management
+ciencia-computacao-python-conceitos,Introdução à Ciência da Computação com Python Parte 1
+project-planning-1,Project Planning
+introduction-statistics-data-analysis-public-health,Introduction to Statistics & Data Analysis in Public Health
+essentials-global-health,Essentials of Global Health
+the-cycle,The Cycle: Management of Successful Arts and Cultural Organizations
+preparing-cloud-associate-cloud-engineer-exam,Preparing for the Google Cloud Associate Cloud Engineer Exam
+project-risk-management,Managing Project Risks and Changes
+wharton-communication-skills,Improving Communication Skills
+international-security-management,International Security Management
+gestionempresarialpyme,Gestión Empresarial Exitosa para Pymes
+excel-vba-for-creative-problem-solving-part-1,"Excel/VBA for Creative Problem Solving, Part 1"
+drug-discovery,Drug Discovery
+dentistry101,Dentistry 101
+guitar,Guitar for Beginners
+positive-psychology-applications,Positive Psychology: Applications and Interventions
+aws-fundamentals-addressing-security-risk,AWS Fundamentals: Addressing Security Risk
+big-data-introduction,Introduction to Big Data
+the-science-of-well-being,The Science of Well-Being
+technical-support-fundamentals,Technical Support Fundamentals
