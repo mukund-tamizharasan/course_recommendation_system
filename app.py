@@ -43,7 +43,7 @@ def card(df):
                         <i class="fa fa-star"></i>
                         {df["Course Rating"][0]}
                     </div>
-                    <div class="review-count">Reviews</div>
+                    <div class="review-count"></div>
                 </div>
             </div>
             <a href="{df["Course URL"][0]}" class="btn btn-dark">Course Link</a>
@@ -67,7 +67,7 @@ def card(df):
                         <i class="fa fa-star"></i>
                         {df["Course Rating"][1]}
                     </div>
-                    <div class="review-count">Reviews</div>
+                    <div class="review-count"></div>
                 </div>
             </div>
             <a href="{df["Course URL"][1]}" class="btn btn-dark">Course Link</a>
@@ -91,7 +91,7 @@ def card(df):
                         <i class="fa fa-star"></i>
                         {df["Course Rating"][2]}
                     </div>
-                    <div class="review-count">Reviews</div>
+                    <div class="review-count"></div>
                 </div>
             </div>
             <a href="{df["Course URL"][2]}" class="btn btn-dark">Course Link</a>
@@ -104,6 +104,10 @@ def card(df):
     </div>
 
     <br/>
+    """
+
+def card1(df):
+    return f"""
 
     <div class ="d-flex justify-content-center">
     <div class="row" style="width: 1000px;">
@@ -123,7 +127,7 @@ def card(df):
                         <i class="fa fa-star"></i>
                         {df["Course Rating"][3]}
                     </div>
-                    <div class="review-count">Reviews</div>
+                    <div class="review-count"></div>
                 </div>
             </div>
             <a href="{df["Course URL"][3]}" class="btn btn-dark">Course Link</a>
@@ -147,7 +151,7 @@ def card(df):
                         <i class="fa fa-star"></i>
                         {df["Course Rating"][4]}
                     </div>
-                    <div class="review-count">Reviews</div>
+                    <div class="review-count"></div>
                 </div>
             </div>
             <a href="{df["Course URL"][4]}" class="btn btn-dark">Course Link</a>
@@ -171,7 +175,7 @@ def card(df):
                         <i class="fa fa-star"></i>
                         {df["Course Rating"][5]}
                     </div>
-                    <div class="review-count">Reviews</div>
+                    <div class="review-count"></div>
                 </div>
             </div>
             <a href="{df["Course URL"][5]}" class="btn btn-dark">Course Link</a>
@@ -230,13 +234,13 @@ with col2:
     # text = st.text_area("Description of the course")
     rec_type = st.radio(
     "Select recommendation type",
-    ('By user', 'By course'))
+    ('By course', 'By user'))
     # number_ratings = st.select_slider("Number of reviews",[">10,000", ">20,000", ">30,000", ">40,000"])
 
     if rec_type == "By course":
         crs = st.selectbox(
         'Select course',
-        course_df["name"], 2)
+        course_df["name"], 19)
     else:
         usr_ = st.selectbox(
         'Select user',
@@ -358,8 +362,13 @@ if clicked:
             final_df = final_df.drop_duplicates()
             final_df = final_df.reset_index()
             st.markdown("""<div class ="d-flex justify-content-center"><h1>Recommendations</h1></div>""", unsafe_allow_html=True)
-            # st.dataframe(final_df.head(5), use_container_width=True)
-            st.markdown(card(final_df), unsafe_allow_html=True)
+            
+            if len(final_df) >= 3 :
+                st.markdown(card(final_df), unsafe_allow_html=True)
+            if len(final_df) >= 6:
+                st.markdown(card1(final_df), unsafe_allow_html=True)
+            else:
+                st.markdown("""<div class ="d-flex justify-content-center"><h3>Try a different combination for good recommendations!</h3></div>""", unsafe_allow_html=True)
         
         else:
             crs_ = course_df[course_df["name"] == crs]["course_id"].to_numpy()[0]
@@ -384,5 +393,11 @@ if clicked:
             final_df = final_df.drop_duplicates()
             final_df = final_df.reset_index()
             st.markdown("""<div class ="d-flex justify-content-center"><h1>Recommendations</h1></div>""", unsafe_allow_html=True)
-            # st.dataframe(final_df.head(5), use_container_width=True)
-            st.markdown(card(final_df), unsafe_allow_html=True)
+            
+            if len(final_df) >= 3 :
+                st.markdown(card(final_df), unsafe_allow_html=True)
+            if len(final_df) >= 6:
+                st.markdown(card1(final_df), unsafe_allow_html=True)
+            else:
+                st.markdown("""<div class ="d-flex justify-content-center"><h3>Try a different combination for good recommendations!</h3></div>""", unsafe_allow_html=True)
+
